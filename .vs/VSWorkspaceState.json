@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug\\net6.0",
+    "\\bin\\Release",
+    "\\bin\\Release\\net6.0",
+    "\\bin\\Release\\net6.0\\ref"
+  ],
+  "SelectedNode": "\\AplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
